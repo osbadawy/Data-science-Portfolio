@@ -8,3 +8,4 @@ These libraries are not currently available through **conda** but are available 
     pip install seaborn
     pip install plotly
     pip install cufflinks
+    pip install pandas_datareader
