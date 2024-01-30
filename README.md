@@ -9,3 +9,7 @@ These libraries are not currently available through **conda** but are available 
     pip install plotly
     pip install cufflinks
     pip install pandas_datareader
+    pip install scipy
+    pip install ta-lib
+
+
